@@ -1,1 +1,1 @@
-# Climavue
+# Climavue - A weather application
